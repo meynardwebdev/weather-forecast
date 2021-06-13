@@ -2,7 +2,7 @@
 
 1. Clone the repository
     ```
-    git clone 
+    git clone https://github.com/meynardwebdev/weather-forecast.git
     ```
 1. Navigate to the project directory
     ```
