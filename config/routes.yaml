@@ -1,0 +1,3 @@
+weather_forecast:
+    path: /
+    controller: App\Controller\WeatherForecastController::index
