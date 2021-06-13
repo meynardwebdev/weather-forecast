@@ -16,9 +16,10 @@
     ```
     npm install
     ```
-1. Run database migration via bin/console
+1. Run database migration and fixtures via bin/console
     ```
     php bin/console doctrine:migrations:migrate
+    php bin/console doctrine:fixtures:load
     ```
 
 
